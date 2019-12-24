@@ -22,4 +22,4 @@ eureka:
       defaultZone: http://localhost:8888/eureka,http://localhost:9999/eureka
       
       
-serviceVersion: 3.0
+serviceVersion: 2.0
